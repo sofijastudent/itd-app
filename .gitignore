@@ -1,0 +1,14 @@
+# Ignoriši WordPress core fajlove (već su uploadovani)
+wp-admin/
+wp-includes/
+wp-content/plugins/
+wp-content/themes/twenty*/
+
+# Backup fajlovi
+*.sql
+*.zip
+*.log
+
+# Sistem fajlovi
+.DS_Store
+Thumbs.db
